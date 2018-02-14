@@ -19,4 +19,4 @@ Access the AMP Docs [here](https://www.ampproject.org/docs/reference/components/
 
 ## URL
 
-Access the story version [here](https://cdn.rawgit.com/ravielakshmanan/amp-story/79f58a58/fb-story-completed.html).
+Access the story version [here](https://cdn.rawgit.com/ravielakshmanan/amp-story/f084437e/fb-story-completed.html).
