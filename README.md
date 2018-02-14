@@ -1,16 +1,15 @@
-# AMP Story tutorial "Joy of Pets"
+# AMP Story tutorial "Facebook Addresses Publishers"
 
-This folder contains the files for the "Create a visual AMP Story" tutorial.
+This folder contains the files to create visual AMP Story.
 
 ## Files included
 
 ```text
-amp-pets-story
+amp-story
   ├── assets/
   │   └──  images, video, audio for story
   ├── bookend.json   
-  ├── pets.html            --- Incomplete version
-  ├── pets-completed.html  --- Completed version
+  ├── fb-story-completed.html  --- Completed version
   └── README.md
 ```
 
