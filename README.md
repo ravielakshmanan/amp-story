@@ -13,9 +13,9 @@ amp-story
   └── README.md
 ```
 
-## License
+## AMP Documentation
 
-This tutorial is licensed under [Apache License, Version 2.0](https://github.com/ampproject/docs/blob/master/LICENSE).
+Access the AMP Docs [here](https://www.ampproject.org/docs/reference/components/amp-story).
 
 ## URL
 
